@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Log.v("abc","bbb...");
+		Log.v("abc","add something...");
 	}
 
 	@Override
