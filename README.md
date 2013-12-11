@@ -10,3 +10,9 @@ This is subtitle
 # somt
 
 ## 123
+
+### Android has 4 elements
+
+*Activity
+*Service
+*content
