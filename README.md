@@ -13,14 +13,14 @@ This is subtitle
 
 ### Android has 4 elements
 
-*Activity
-*Service
-*content
-*123
+* Activity
+* Service
+* content
+* 123
 
 Android
 
-1.aaa
-2.a++++
-2.bbb
-3.ccc
+1. aaa
+2. a++++
+2. bbb
+3. ccc
