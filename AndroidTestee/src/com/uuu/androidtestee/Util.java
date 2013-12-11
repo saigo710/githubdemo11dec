@@ -1,7 +1,7 @@
 package com.uuu.androidtestee;
 
 public class Util {
-
+int x;
 	/**
 	 * @param args
 	 */
